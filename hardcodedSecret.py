@@ -7,6 +7,6 @@ sQAAAAtzc2gtZWQyNTUxOQAAACDXnMvKwigppkAo3Csm0H4pnYT1XSPIvVlClcv4XwRT9w
 AAAECK/+6NsEv1ZEXamRUiI0xVjEdNwf4lfvCYNoVc78Ja/decy8rCKCmmQCjcKybQfimd
 hPVdI8i9WUKVy/hfBFP3AAAAFGthcmxAREVTS1RPUC1OMktHT1RRAQ==
 -----END OPENSSH PRIVATE KEY-----"""
-print(str(FakeAWSCredentials))
+print(FakeAWSCredentials)
 print(FakeAPIKeyCredentials)
 print(FakeSSHPrivateKey)
