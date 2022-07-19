@@ -1,2 +1,2 @@
-AWSCredentials = ["AKIAJSIE27KKMHXI3BJQ", "5bEYu26084qjSFyclM/f2pz4gviSfoOg+mFwBH39"]
+AWSCredentials = [["AKIAJSIE27KKMHXI3BJQ", "5bEYu26084qjSFyclM/f2pz4gviSfoOg+mFwBH39"],["AKIAIOSFODNN7EXAMPLE" "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"]]
 print(str(AWSCredentials))
